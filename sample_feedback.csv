@@ -1,0 +1,61 @@
+feedback_id,department,semester,aspect,feedback_text,sentiment
+F001,CSE,5,Teaching,The faculty explains programming concepts clearly,Positive
+F002,CSE,5,Laboratory,The computer lab does not have enough working systems,Negative
+F003,IT,3,Infrastructure,Classrooms are clean and comfortable,Positive
+F004,ECE,4,Examinations,The exam questions were fair and related to the syllabus,Positive
+F005,CSE,3,Teaching,The lectures are difficult to follow and explanations are unclear,Negative
+F006,IT,5,Administration,The office staff helped me complete the certificate process,Positive
+F007,ECE,3,Laboratory,Some lab equipment is broken and needs repair,Negative
+F008,CSE,4,Timetable,The timetable is manageable,Positive
+F009,IT,4,Examinations,The results were okay,Neutral
+F010,ECE,5,Infrastructure,Internet access in classrooms is unreliable,Negative
+F011,CSE,3,Teaching,Teaching is average and could include more examples,Neutral
+F012,IT,5,Laboratory,Practical sessions provide useful hands-on experience,Positive
+F013,ECE,4,Administration,The administrative process is confusing,Negative
+F014,CSE,6,Timetable,There are too many assignments due at the same time,Negative
+F015,IT,3,Teaching,The teacher is supportive and answers questions,Positive
+F016,ECE,5,Examinations,The exam was neither easy nor difficult,Neutral
+F017,CSE,4,Infrastructure,The classroom projector works well,Positive
+F018,IT,3,Teaching,The explanations are not clear,Negative
+F019,ECE,3,Timetable,The schedule is acceptable,Neutral
+F020,CSE,5,Laboratory,The lab is useful but there are not enough computers,Negative
+F021,IT,4,Infrastructure,The drinking water area needs better maintenance,Negative
+F022,ECE,3,Teaching,The lectures are good and well organized,Positive
+F023,CSE,6,Administration,The support desk response was average,Neutral
+F024,IT,5,Examinations,The assessment instructions were confusing,Negative
+F025,ECE,4,Laboratory,The experiments helped me understand the theory,Positive
+F026,CSE,3,Teaching,The teacher explains every topic with clear examples,Positive
+F027,IT,3,Infrastructure,The classrooms are overcrowded,Negative
+F028,ECE,5,Administration,The staff was helpful and polite,Positive
+F029,CSE,4,Examinations,The question paper was okay,Neutral
+F030,IT,6,Timetable,The workload is too high this semester,Negative
+F031,ECE,3,Teaching,The course is average,Neutral
+F032,CSE,5,Laboratory,The lab computers work properly,Positive
+F033,IT,4,Administration,The certificate process took too long,Negative
+F034,ECE,6,Infrastructure,The campus is clean and well maintained,Positive
+F035,CSE,3,Teaching,The lecture was fine,Neutral
+F036,IT,5,Examinations,The questions were unclear and difficult to understand,Negative
+F037,ECE,4,Laboratory,The equipment is modern and works well,Positive
+F038,CSE,6,Timetable,The schedule is okay,Neutral
+F039,IT,3,Teaching,The faculty does not explain concepts clearly,Negative
+F040,ECE,5,Infrastructure,WiFi works well in most classrooms,Positive
+F041,CSE,4,Administration,The office service was neither good nor bad,Neutral
+F042,IT,6,Laboratory,Practical work is useful and interesting,Positive
+F043,ECE,3,Examinations,The exam was poorly organized,Negative
+F044,CSE,5,Infrastructure,The classroom is comfortable,Positive
+F045,IT,4,Timetable,The schedule is average,Neutral
+F046,ECE,6,Teaching,The lecturer answers questions patiently,Positive
+F047,CSE,3,Laboratory,Several systems are broken,Negative
+F048,IT,5,Administration,The staff response was acceptable,Neutral
+F049,ECE,4,Teaching,The teaching method needs improvement,Negative
+F050,CSE,6,Examinations,The exam instructions were clear,Positive
+F051,IT,3,Infrastructure,The classroom is okay,Neutral
+F052,ECE,5,Timetable,Too many assignments create unnecessary pressure,Negative
+F053,CSE,4,Teaching,The explanations are clear and helpful,Positive
+F054,IT,6,Laboratory,The lab equipment is average,Neutral
+F055,ECE,3,Administration,The office staff resolved my issue quickly,Positive
+F056,CSE,5,Infrastructure,The WiFi connection is poor,Negative
+F057,IT,4,Teaching,The teaching quality is average,Neutral
+F058,ECE,6,Examinations,The assessment was fair,Positive
+F059,CSE,3,Administration,The administrative service is slow,Negative
+F060,IT,5,Laboratory,The practical sessions are okay,Neutral
